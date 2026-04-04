@@ -5,7 +5,7 @@ function setActive(elem) {
     }
   // Careers List In Home section
   let careersdetail= document.querySelector(".careers-details");
-  let careers = ["Web Developer" , "Programmar" , "Content writter"];
+  let careers = ["Web Developer" , "Programmer" , "Content writter"];
   let careerindex= 0;
   let characterindex= 0;
   updatecareers();
